@@ -3,8 +3,8 @@ Matrícula: 211057600011
 
 # Sobre o Projeto
 
-Este projeto e um interpretador toy assembly similar a arquitetura MIPS.
-O interpretador possui 32 registradores RN de 32-bits, aceita ate 100000 instrucoes e ate 100 linhas de codigo e suporta o seguinte conjunto de instrucoes:
+Este projeto é um interpretador toy assembly similar a arquitetura MIPS.
+O interpretador possui 32 registradores RN de 32-bits, aceita ate 100000 instruçôes e até 100 linhas de codigo e suporta o seguinte conjunto de instruções:
 
 ```
 • MOV RX INTEIRO: atribui a RX o valor do INTEIRO
@@ -43,7 +43,7 @@ make clean
 
 # Como usar
 
-Quando utilizar o programa, envie na primeira linha o numero de instrucoes que devem ser interpretadas, e nas linhas seguintes, envie as instrucoes, uma por linha. Um exemplo de input e:
+Quando utilizar o programa, envie na primeira linha o numero de instrucoes que devem ser interpretadas, e nas linhas seguintes, envie as instruções, uma por linha. Um exemplo de input é:
 
 ```txt
 3               // numero de linhas do assembly
